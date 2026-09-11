@@ -1,0 +1,806 @@
+[
+  {
+    "album": "Dawn FM",
+    "artist": "The Weeknd",
+    "track": "Out of Time",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2f/22/a9/2f22a9a6-5af1-5846-a44e-ba016724ed69/21UM1IM58860.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/b8/43/79b84369-15c3-5a5a-fb72-2334b00826e6/mzaf_4381874253449656759.plus.aac.p.m4a",
+    "source": "https://music.apple.com/us/album/out-of-time/1603171516?i=1603171870&uo=4",
+    "durationMs": 214191,
+    "artworkStatus": 200,
+    "previewStatus": 200,
+    "tracks": [
+      {
+        "id": 1603171527,
+        "title": "Dawn FM",
+        "durationMs": 96240,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/04/9b/2e049b42-4a1a-a40b-c12a-03c85a3866cb/mzaf_14886440923588341464.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/dawn-fm/1603171516?i=1603171527&uo=4"
+      },
+      {
+        "id": 1603171529,
+        "title": "Gasoline",
+        "durationMs": 212166,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/29/e7/1e29e7cd-d33e-259d-c895-edf8df9869aa/mzaf_4064119182651673671.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/gasoline/1603171516?i=1603171529&uo=4"
+      },
+      {
+        "id": 1603171530,
+        "title": "How Do I Make You Love Me?",
+        "durationMs": 214215,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/71/d0/57/71d05777-c0e8-7f6e-93b0-777cdd27f3ab/mzaf_7530691182508642555.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/how-do-i-make-you-love-me/1603171516?i=1603171530&uo=4"
+      },
+      {
+        "id": 1603171531,
+        "title": "Take My Breath",
+        "durationMs": 339023,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/72/81/597281de-ddb3-a3b0-b839-fb3ea1262271/mzaf_15057665083856473917.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/take-my-breath/1603171516?i=1603171531&uo=4"
+      },
+      {
+        "id": 1603171533,
+        "title": "Sacrifice",
+        "durationMs": 188918,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/b0/c2/3cb0c297-74db-128a-7e8b-51d0b4878380/mzaf_5140696590097780982.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/sacrifice/1603171516?i=1603171533&uo=4"
+      },
+      {
+        "id": 1603171534,
+        "title": "A Tale By Quincy",
+        "durationMs": 96214,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a2/79/07/a279079a-b0ef-a5b8-c7bf-2c96cd36666b/mzaf_17121612636897179052.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/a-tale-by-quincy/1603171516?i=1603171534&uo=4"
+      },
+      {
+        "id": 1603171870,
+        "title": "Out of Time",
+        "durationMs": 214191,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/b8/43/79b84369-15c3-5a5a-fb72-2334b00826e6/mzaf_4381874253449656759.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/out-of-time/1603171516?i=1603171870&uo=4"
+      },
+      {
+        "id": 1603171873,
+        "title": "Here We Go… Again (feat. Tyler, The Creator)",
+        "durationMs": 209778,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/32/6e/c1/326ec173-628a-3409-5cbf-06465490d8ea/mzaf_5813848807303973561.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/here-we-go-again-feat-tyler-the-creator/1603171516?i=1603171873&uo=4"
+      },
+      {
+        "id": 1603171875,
+        "title": "Best Friends",
+        "durationMs": 163504,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/41/53/cc415386-64f6-5942-634a-f49c20c1e81b/mzaf_2774085575462070094.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/best-friends/1603171516?i=1603171875&uo=4"
+      },
+      {
+        "id": 1603171893,
+        "title": "Is There Someone Else?",
+        "durationMs": 199111,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/05/2d/70052d8a-44e1-4fa2-8b24-504cf28d3506/mzaf_10428041991938795363.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/is-there-someone-else/1603171516?i=1603171893&uo=4"
+      },
+      {
+        "id": 1603171895,
+        "title": "Starry Eyes",
+        "durationMs": 148000,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0c/81/c3/0c81c386-c9dc-a7a0-0795-667487251f6e/mzaf_5966668238741918116.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/starry-eyes/1603171516?i=1603171895&uo=4"
+      },
+      {
+        "id": 1603171957,
+        "title": "Every Angel is Terrifying",
+        "durationMs": 167256,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ea/77/a6/ea77a600-4220-5555-c2cb-56219d3b6fd6/mzaf_1358691728234906544.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/every-angel-is-terrifying/1603171516?i=1603171957&uo=4"
+      }
+    ]
+  },
+  {
+    "album": "HIT ME HARD AND SOFT",
+    "artist": "Billie Eilish",
+    "track": "BIRDS OF A FEATHER",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/31/d3/3431d34e-847f-5d66-df83-0bce688d997e/mzaf_18106743962423782018.plus.aac.p.m4a",
+    "source": "https://music.apple.com/us/album/birds-of-a-feather/1739659134?i=1739659142&uo=4",
+    "durationMs": 210373,
+    "artworkStatus": 200,
+    "previewStatus": 200,
+    "tracks": [
+      {
+        "id": 1739659137,
+        "title": "SKINNY",
+        "durationMs": 219733,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c7/95/03/c79503d2-84f3-94e6-6d46-935dfd08a260/mzaf_755778634165222126.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/skinny/1739659134?i=1739659137&uo=4"
+      },
+      {
+        "id": 1739659140,
+        "title": "LUNCH",
+        "durationMs": 179587,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9d/3e/43/9d3e43aa-682a-7979-8547-d339956c409b/mzaf_710286407585135494.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/lunch/1739659134?i=1739659140&uo=4"
+      },
+      {
+        "id": 1739659141,
+        "title": "CHIHIRO",
+        "durationMs": 303440,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/41/6b/30416b6a-a895-a8e5-0b92-6206fff0bb0a/mzaf_12575392156288065852.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/chihiro/1739659134?i=1739659141&uo=4"
+      },
+      {
+        "id": 1739659142,
+        "title": "BIRDS OF A FEATHER",
+        "durationMs": 210373,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/34/31/d3/3431d34e-847f-5d66-df83-0bce688d997e/mzaf_18106743962423782018.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/birds-of-a-feather/1739659134?i=1739659142&uo=4"
+      },
+      {
+        "id": 1739659144,
+        "title": "WILDFLOWER",
+        "durationMs": 261467,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/de/c3/e8/dec3e884-7237-9622-718a-12c5f48c5ca2/mzaf_3134455671785145822.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/wildflower/1739659134?i=1739659144&uo=4"
+      },
+      {
+        "id": 1739659145,
+        "title": "THE GREATEST",
+        "durationMs": 293840,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c5/0c/fb/c50cfb87-edea-6dc2-3c10-7dcfe197cb79/mzaf_14709844062419179914.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/the-greatest/1739659134?i=1739659145&uo=4"
+      },
+      {
+        "id": 1739659149,
+        "title": "L’AMOUR DE MA VIE",
+        "durationMs": 333987,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/d9/1f/1dd91f91-cbd2-87de-643d-e450e839ee2d/mzaf_10919437608751775820.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/lamour-de-ma-vie/1739659134?i=1739659149&uo=4"
+      },
+      {
+        "id": 1739659150,
+        "title": "THE DINER",
+        "durationMs": 186347,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c3/43/86/c34386c6-b8aa-f541-120c-30c79b7d24ba/mzaf_15168894892162804729.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/the-diner/1739659134?i=1739659150&uo=4"
+      },
+      {
+        "id": 1739659277,
+        "title": "BITTERSUITE",
+        "durationMs": 298440,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/3f/a6/db3fa631-1269-a18f-6c30-679b08c4bfaf/mzaf_7586363902071311177.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/bittersuite/1739659134?i=1739659277&uo=4"
+      },
+      {
+        "id": 1739659278,
+        "title": "BLUE",
+        "durationMs": 343120,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/29/55/12/29551211-8ee4-c75f-3cbe-95c1a7eaa6fe/mzaf_15864137434256663479.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/blue/1739659134?i=1739659278&uo=4"
+      }
+    ]
+  },
+  {
+    "album": "Radical Optimism",
+    "artist": "Dua Lipa",
+    "track": "Houdini",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/e8/1c/ede81c4b-593d-913a-cfe4-3b12496f67e5/5021732254870.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/0d/96/a00d968c-4149-d0d3-1589-131bb27f6893/mzaf_7286813571513734816.plus.aac.p.m4a",
+    "source": "https://music.apple.com/us/album/houdini/1734980417?i=1734980420&uo=4",
+    "durationMs": 185918,
+    "artworkStatus": 200,
+    "previewStatus": 200,
+    "tracks": [
+      {
+        "id": 1734980418,
+        "title": "End Of An Era",
+        "durationMs": 196219,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d9/66/bc/d966bc23-c69e-024c-5660-f1c698553faa/mzaf_15504292121299820703.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/end-of-an-era/1734980417?i=1734980418&uo=4"
+      },
+      {
+        "id": 1734980420,
+        "title": "Houdini",
+        "durationMs": 185918,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/0d/96/a00d968c-4149-d0d3-1589-131bb27f6893/mzaf_7286813571513734816.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/houdini/1734980417?i=1734980420&uo=4"
+      },
+      {
+        "id": 1734980428,
+        "title": "Training Season",
+        "durationMs": 209488,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/ab/1c/2eab1c09-f4dd-0dc5-233d-703ee7414921/mzaf_9466644253478289893.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/training-season/1734980417?i=1734980428&uo=4"
+      },
+      {
+        "id": 1734980438,
+        "title": "These Walls",
+        "durationMs": 217784,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/1f/4a/5c1f4a48-aa10-9016-cbdc-c1709c03da95/mzaf_15508627280702552602.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/these-walls/1734980417?i=1734980438&uo=4"
+      },
+      {
+        "id": 1734980440,
+        "title": "Whatcha Doing",
+        "durationMs": 198199,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/82/8f/4c/828f4cfb-ac92-0052-4cb1-f962135e561b/mzaf_3791146363930281112.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/whatcha-doing/1734980417?i=1734980440&uo=4"
+      },
+      {
+        "id": 1734980443,
+        "title": "French Exit",
+        "durationMs": 201287,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5e/06/d5/5e06d58d-805a-8188-772c-470d51b3db1b/mzaf_15359532553955057656.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/french-exit/1734980417?i=1734980443&uo=4"
+      },
+      {
+        "id": 1734980444,
+        "title": "Illusion",
+        "durationMs": 188143,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/04/d9/2504d908-2a6a-64df-be8d-c6916ff0b763/mzaf_11647511398423168038.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/illusion/1734980417?i=1734980444&uo=4"
+      },
+      {
+        "id": 1734980659,
+        "title": "Falling Forever",
+        "durationMs": 223096,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/c3/84/25c384b7-96eb-8d17-3dfd-d9a3904ebe59/mzaf_6684079679771361422.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/falling-forever/1734980417?i=1734980659&uo=4"
+      },
+      {
+        "id": 1734980662,
+        "title": "Anything For Love",
+        "durationMs": 141783,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/b9/b8/d6b9b8bd-3e31-7353-6d5f-d534f13485af/mzaf_8877096940620354124.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/anything-for-love/1734980417?i=1734980662&uo=4"
+      },
+      {
+        "id": 1734980663,
+        "title": "Maria",
+        "durationMs": 187682,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ef/2d/aa/ef2daa42-365c-ee82-f694-7dcaeabd03a0/mzaf_18330902447694328825.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/maria/1734980417?i=1734980663&uo=4"
+      },
+      {
+        "id": 1734980667,
+        "title": "Happy For You",
+        "durationMs": 245681,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5f/eb/29/5feb29fe-09a8-0ab6-1155-e5809aae7c99/mzaf_14937726161907333633.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/happy-for-you/1734980417?i=1734980667&uo=4"
+      }
+    ]
+  },
+  {
+    "album": "SOS",
+    "artist": "SZA",
+    "track": "Kill Bill",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/2b/ea/452bead6-c7f5-82d4-f5f7-ec876014b4cc/mzaf_2905911853279084717.plus.aac.p.m4a",
+    "source": "https://music.apple.com/us/album/kill-bill/1657869377?i=1657869393&uo=4",
+    "durationMs": 153947,
+    "artworkStatus": 200,
+    "previewStatus": 200,
+    "tracks": [
+      {
+        "id": 1657869385,
+        "title": "SOS",
+        "durationMs": 117773,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ae/2a/fe/ae2afe3d-5e0e-927a-41ab-0ab714c76dd5/mzaf_2267592440848495923.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/sos/1657869377?i=1657869385&uo=4"
+      },
+      {
+        "id": 1657869393,
+        "title": "Kill Bill",
+        "durationMs": 153947,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/2b/ea/452bead6-c7f5-82d4-f5f7-ec876014b4cc/mzaf_2905911853279084717.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/kill-bill/1657869377?i=1657869393&uo=4"
+      },
+      {
+        "id": 1657869394,
+        "title": "Seek & Destroy",
+        "durationMs": 203733,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/b6/64/c0b664b9-4660-f472-9224-96951a4b7950/mzaf_18404184070310045679.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/seek-destroy/1657869377?i=1657869394&uo=4"
+      },
+      {
+        "id": 1657869395,
+        "title": "Low",
+        "durationMs": 181080,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/17/b3/b8/17b3b8c6-d4ff-c5be-f8f5-99dc1f6e49f2/mzaf_5339584725843423915.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/low/1657869377?i=1657869395&uo=4"
+      },
+      {
+        "id": 1657869464,
+        "title": "Love Language",
+        "durationMs": 183893,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1a/52/db/1a52db42-4a4e-3096-7053-19a87e65a3b3/mzaf_11228824749194553258.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/love-language/1657869377?i=1657869464&uo=4"
+      },
+      {
+        "id": 1657869466,
+        "title": "Blind",
+        "durationMs": 150720,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/cd/b3/86cdb389-4c20-933b-ed84-640c00cd3813/mzaf_12215773865145910870.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/blind/1657869377?i=1657869466&uo=4"
+      },
+      {
+        "id": 1657869488,
+        "title": "Used (feat. Don Toliver)",
+        "durationMs": 146951,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/62/d6/6f/62d66f3b-cdbb-35d1-b74a-67c3afc1d872/mzaf_15816589370137508590.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/used-feat-don-toliver/1657869377?i=1657869488&uo=4"
+      },
+      {
+        "id": 1657869492,
+        "title": "Snooze",
+        "durationMs": 201800,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5c/a7/8e/5ca78e4e-245f-5021-858c-45a8057eb296/mzaf_4277583948632043282.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/snooze/1657869377?i=1657869492&uo=4"
+      },
+      {
+        "id": 1657869493,
+        "title": "Notice Me",
+        "durationMs": 160920,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/ed/16/62ed1624-7a96-3b13-5361-f30c5e03c4ef/mzaf_17334180693005739470.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/notice-me/1657869377?i=1657869493&uo=4"
+      },
+      {
+        "id": 1657869494,
+        "title": "Gone Girl",
+        "durationMs": 244027,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a0/d8/44/a0d84431-6312-f070-8f0e-152bbefcb819/mzaf_8214022671734433266.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/gone-girl/1657869377?i=1657869494&uo=4"
+      },
+      {
+        "id": 1657869495,
+        "title": "Smoking on my Ex Pack",
+        "durationMs": 83827,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/b9/a2/ebb9a210-a50b-d7e2-3377-d3922d57731f/mzaf_8089678532467291642.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/smoking-on-my-ex-pack/1657869377?i=1657869495&uo=4"
+      },
+      {
+        "id": 1657869526,
+        "title": "Ghost in the Machine (feat. Phoebe Bridgers)",
+        "durationMs": 218587,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/8c/b0/e28cb0b9-7a0f-5baa-291e-7f8b10e0f00a/mzaf_17417162215989198526.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/ghost-in-the-machine-feat-phoebe-bridgers/1657869377?i=1657869526&uo=4"
+      }
+    ]
+  },
+  {
+    "album": "Harry's House",
+    "artist": "Harry Styles",
+    "track": "As It Was",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/10/16/67101606-3869-ca44-6c03-e13d6322cb51/mzaf_1135399237022217274.plus.aac.p.m4a",
+    "source": "https://music.apple.com/us/album/as-it-was/1615584999?i=1615585008&uo=4",
+    "durationMs": 167303,
+    "artworkStatus": 200,
+    "previewStatus": 200,
+    "tracks": [
+      {
+        "id": 1615585001,
+        "title": "Music For a Sushi Restaurant",
+        "durationMs": 193813,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/30/2b/db302b37-7cfd-947d-b168-2288df0594d9/mzaf_4879334278137199118.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/music-for-a-sushi-restaurant/1615584999?i=1615585001&uo=4"
+      },
+      {
+        "id": 1615585006,
+        "title": "Late Night Talking",
+        "durationMs": 177955,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e3/a2/04/e3a204b5-c3f6-f49d-a97c-4472f8b045d7/mzaf_18322387550227682410.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/late-night-talking/1615584999?i=1615585006&uo=4"
+      },
+      {
+        "id": 1615585007,
+        "title": "Grapejuice",
+        "durationMs": 191959,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/e9/fa/91e9faf4-c012-2b83-f2e3-9204635561d9/mzaf_1722014334768721753.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/grapejuice/1615584999?i=1615585007&uo=4"
+      },
+      {
+        "id": 1615585008,
+        "title": "As It Was",
+        "durationMs": 167303,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/10/16/67101606-3869-ca44-6c03-e13d6322cb51/mzaf_1135399237022217274.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/as-it-was/1615584999?i=1615585008&uo=4"
+      },
+      {
+        "id": 1615585009,
+        "title": "Daylight",
+        "durationMs": 164533,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/d7/aa/0ed7aacf-6c72-39b2-7731-05ad74ac85e2/mzaf_11719631527113093480.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/daylight/1615584999?i=1615585009&uo=4"
+      },
+      {
+        "id": 1615585011,
+        "title": "Little Freak",
+        "durationMs": 202183,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4b/cf/21/4bcf213b-4fad-9304-8752-34ef30e1716a/mzaf_11010657058817410926.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/little-freak/1615584999?i=1615585011&uo=4"
+      },
+      {
+        "id": 1615585012,
+        "title": "Matilda",
+        "durationMs": 245964,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/03/29/7d/03297dd4-5dbe-4ec6-9480-f40846b7181c/mzaf_15378071810157311314.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/matilda/1615584999?i=1615585012&uo=4"
+      },
+      {
+        "id": 1615585091,
+        "title": "Cinema",
+        "durationMs": 243508,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bf/18/ee/bf18eeb8-c712-4a31-4b52-1cded82e35f2/mzaf_4883013230396399083.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/cinema/1615584999?i=1615585091&uo=4"
+      },
+      {
+        "id": 1615585098,
+        "title": "Daydreaming",
+        "durationMs": 187342,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2b/ef/d6/2befd692-42ec-4df3-ea6b-9240c891d4c7/mzaf_7374496274959221835.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/daydreaming/1615584999?i=1615585098&uo=4"
+      },
+      {
+        "id": 1615585099,
+        "title": "Keep Driving",
+        "durationMs": 140242,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/86/86/a3/8686a35e-5715-c687-1b58-4bcbc63d8460/mzaf_8394697523670552560.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/keep-driving/1615584999?i=1615585099&uo=4"
+      },
+      {
+        "id": 1615585100,
+        "title": "Satellite",
+        "durationMs": 218577,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/ff/d0/b0ffd005-3f1c-34d6-3123-ae829457a409/mzaf_865652897910996010.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/satellite/1615584999?i=1615585100&uo=4"
+      },
+      {
+        "id": 1615585101,
+        "title": "Boyfriends",
+        "durationMs": 194544,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/d2/bf/1bd2bfaf-601f-36ab-ec50-63d7d91cf8bb/mzaf_15843941691377993426.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/boyfriends/1615584999?i=1615585101&uo=4"
+      }
+    ]
+  },
+  {
+    "album": "Midnights",
+    "artist": "Taylor Swift",
+    "track": "Anti-Hero",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/3d/01/f2/3d01f2e5-5a08-835f-3d30-d031720b2b80/22UM1IM07364.rgb.jpg/600x600bb.jpg",
+    "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/56/2a/1d562a07-dc5f-a9c0-1f36-2051a8c14eb7/mzaf_7214829135431340590.plus.aac.p.m4a",
+    "source": "https://music.apple.com/us/album/anti-hero/1649434004?i=1649434293&uo=4",
+    "durationMs": 200690,
+    "artworkStatus": 200,
+    "previewStatus": 200,
+    "tracks": [
+      {
+        "id": 1649434280,
+        "title": "Lavender Haze",
+        "durationMs": 202396,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d4/12/8b/d4128b8f-7c67-6640-8ef7-f6d3712898c2/mzaf_2819538998869285517.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/lavender-haze/1649434004?i=1649434280&uo=4"
+      },
+      {
+        "id": 1649434289,
+        "title": "Maroon",
+        "durationMs": 218271,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9c/e6/d9/9ce6d9d6-41e7-cad5-53a6-f22540be9a7b/mzaf_9351315632938979039.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/maroon/1649434004?i=1649434289&uo=4"
+      },
+      {
+        "id": 1649434293,
+        "title": "Anti-Hero",
+        "durationMs": 200690,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1d/56/2a/1d562a07-dc5f-a9c0-1f36-2051a8c14eb7/mzaf_7214829135431340590.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/anti-hero/1649434004?i=1649434293&uo=4"
+      },
+      {
+        "id": 1649434297,
+        "title": "Snow On The Beach (feat. Lana Del Rey)",
+        "durationMs": 256124,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/d9/1c/04d91c66-5375-63f5-426b-30157e4abecb/mzaf_16805469819989274532.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/snow-on-the-beach-feat-lana-del-rey/1649434004?i=1649434297&uo=4"
+      },
+      {
+        "id": 1649434298,
+        "title": "You're On Your Own, Kid",
+        "durationMs": 194207,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/b5/b0/c6b5b051-b243-f02c-252f-98d70ca43323/mzaf_4977820443709973477.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/youre-on-your-own-kid/1649434004?i=1649434298&uo=4"
+      },
+      {
+        "id": 1649434301,
+        "title": "Midnight Rain",
+        "durationMs": 174783,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/83/74/608374c4-89c9-56b6-cc05-83823079093d/mzaf_7336811791578249009.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/midnight-rain/1649434004?i=1649434301&uo=4"
+      },
+      {
+        "id": 1649434304,
+        "title": "Question...?",
+        "durationMs": 210557,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/62/22/ad/6222ad14-520b-5490-ee75-3d2ed08d41f3/mzaf_12993742901464365849.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/question/1649434004?i=1649434304&uo=4"
+      },
+      {
+        "id": 1649434486,
+        "title": "Vigilante Shit",
+        "durationMs": 164801,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/b4/b0/14b4b022-694d-02d1-f910-06aae775730c/mzaf_13238284356838898164.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/vigilante-shit/1649434004?i=1649434486&uo=4"
+      },
+      {
+        "id": 1649434489,
+        "title": "Bejeweled",
+        "durationMs": 194166,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ba/af/bb/baafbbaf-1509-a71f-b214-10dea96907db/mzaf_15294778467355361654.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/bejeweled/1649434004?i=1649434489&uo=4"
+      },
+      {
+        "id": 1649434492,
+        "title": "Labyrinth",
+        "durationMs": 247962,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/c3/34/44c33455-79ca-d1c2-e557-99ddf564b674/mzaf_12176202092445547869.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/labyrinth/1649434004?i=1649434492&uo=4"
+      },
+      {
+        "id": 1649434498,
+        "title": "Karma",
+        "durationMs": 204852,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e5/92/85/e59285e6-b8d1-419e-ce94-b28beac006ee/mzaf_14271232777139391292.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/karma/1649434004?i=1649434498&uo=4"
+      },
+      {
+        "id": 1649434507,
+        "title": "Sweet Nothing",
+        "durationMs": 188497,
+        "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/d9/9d/4cd99d56-598e-5f69-8007-f0d2652b8a82/mzaf_1308049008659075487.plus.aac.p.m4a",
+        "source": "https://music.apple.com/us/album/sweet-nothing/1649434004?i=1649434507&uo=4"
+      }
+    ]
+  },
+  {
+    "album": "自由音乐精选",
+    "artist": "Kevin MacLeod",
+    "artwork": "/favicon.svg",
+    "track": "Carefree",
+    "preview": "/audio/USUAN1400037.mp3",
+    "fallback": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Carefree.mp3",
+    "durationMs": 205140,
+    "source": "https://incompetech.com/music/royalty-free/music.html",
+    "full": true,
+    "tracks": [
+      {
+        "id": 1,
+        "title": "Carefree",
+        "preview": "/audio/USUAN1400037.mp3",
+        "fallback": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Carefree.mp3",
+        "durationMs": 205140,
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "qualities": [
+          {
+            "id": "standard",
+            "label": "省流",
+            "detail": "MP3 · 128 kbps",
+            "url": "/audio/USUAN1400037-128.mp3",
+            "bytes": 3283595
+          },
+          {
+            "id": "original",
+            "label": "原始音质",
+            "detail": "MP3 · 约 256 kbps",
+            "url": "/audio/USUAN1400037.mp3",
+            "bytes": 6566713,
+            "fallback": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Carefree.mp3"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Dream Culture",
+        "preview": "/audio/USUAN1300046.mp3",
+        "fallback": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dream%20Culture.mp3",
+        "durationMs": 214360,
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300046",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "qualities": [
+          {
+            "id": "standard",
+            "label": "省流",
+            "detail": "MP3 · 128 kbps",
+            "url": "/audio/USUAN1300046-128.mp3",
+            "bytes": 3431108
+          },
+          {
+            "id": "original",
+            "label": "原始音质",
+            "detail": "MP3 · 约 320 kbps",
+            "url": "/audio/USUAN1300046.mp3",
+            "bytes": 8576659,
+            "fallback": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dream%20Culture.mp3"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Cipher",
+        "preview": "/audio/USUAN1100844.mp3",
+        "fallback": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cipher2.mp3",
+        "durationMs": 231260,
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100844",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "qualities": [
+          {
+            "id": "standard",
+            "label": "省流",
+            "detail": "MP3 · 128 kbps",
+            "url": "/audio/USUAN1100844-128.mp3",
+            "bytes": 3701518
+          },
+          {
+            "id": "original",
+            "label": "原始音质",
+            "detail": "MP3 · 约 320 kbps",
+            "url": "/audio/USUAN1100844.mp3",
+            "bytes": 9252699,
+            "fallback": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cipher2.mp3"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Wallpaper",
+        "preview": "/audio/USUAN1100843.mp3",
+        "fallback": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Wallpaper.mp3",
+        "durationMs": 220060,
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100843",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "qualities": [
+          {
+            "id": "standard",
+            "label": "省流",
+            "detail": "MP3 · 128 kbps",
+            "url": "/audio/USUAN1100843-128.mp3",
+            "bytes": 3522188
+          },
+          {
+            "id": "original",
+            "label": "原始音质",
+            "detail": "MP3 · 约 320 kbps",
+            "url": "/audio/USUAN1100843.mp3",
+            "bytes": 8804339,
+            "fallback": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Wallpaper.mp3"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Local Forecast",
+        "preview": "/audio/USUAN1300010.mp3",
+        "fallback": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Local%20Forecast.mp3",
+        "durationMs": 165220,
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300010",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "qualities": [
+          {
+            "id": "standard",
+            "label": "省流",
+            "detail": "MP3 · 128 kbps",
+            "url": "/audio/USUAN1300010-128.mp3",
+            "bytes": 2644890
+          },
+          {
+            "id": "original",
+            "label": "原始音质",
+            "detail": "MP3 · 约 320 kbps",
+            "url": "/audio/USUAN1300010.mp3",
+            "bytes": 6611177,
+            "fallback": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Local%20Forecast.mp3"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Monkeys Spinning Monkeys",
+        "preview": "/audio/USUAN1400011.mp3",
+        "fallback": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Monkeys%20Spinning%20Monkeys.mp3",
+        "durationMs": 125070,
+        "source": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400011",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "qualities": [
+          {
+            "id": "standard",
+            "label": "省流",
+            "detail": "MP3 · 128 kbps",
+            "url": "/audio/USUAN1400011-128.mp3",
+            "bytes": 2002532
+          },
+          {
+            "id": "original",
+            "label": "原始音质",
+            "detail": "MP3 · 约 320 kbps",
+            "url": "/audio/USUAN1400011.mp3",
+            "bytes": 5005207,
+            "fallback": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Monkeys%20Spinning%20Monkeys.mp3"
+          }
+        ]
+      }
+    ],
+    "creditId": "完整音乐精选"
+  },
+  {
+    "album": "巴赫 · 哥德堡变奏曲",
+    "artist": "Shelley Katz",
+    "artwork": "/favicon.svg",
+    "track": "哥德堡变奏曲 · 第 4 变奏",
+    "preview": "/audio/bach-variation-4-128.mp3",
+    "durationMs": 53707,
+    "source": "https://archive.org/details/MusopenCollectionAsFlac",
+    "full": true,
+    "description": "让钢琴的层次慢慢展开。Shelley Katz 演奏，按网络情况选择 MP3、FLAC 或 WAV。",
+    "tracks": [
+      {
+        "title": "哥德堡变奏曲 · 第 4 变奏",
+        "preview": "/audio/bach-variation-4-128.mp3",
+        "durationMs": 53707,
+        "source": "https://archive.org/details/MusopenCollectionAsFlac",
+        "qualities": [
+          {
+            "id": "standard",
+            "label": "省流",
+            "detail": "MP3 · 128 kbps",
+            "url": "/audio/bach-variation-4-128.mp3",
+            "bytes": 860466
+          },
+          {
+            "id": "flac",
+            "label": "无损 FLAC",
+            "detail": "FLAC · 24-bit / 44.1 kHz",
+            "url": "/audio/bach-variation-4.flac",
+            "bytes": 3015744,
+            "fallback": "https://ia600709.us.archive.org/0/items/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-05-GoldbergVariationsBwv.988-Variation4.flac"
+          },
+          {
+            "id": "wav",
+            "label": "无损 WAV",
+            "detail": "WAV · 24-bit / 44.1 kHz",
+            "url": "/audio/bach-variation-4.wav",
+            "bytes": 14211038
+          }
+        ]
+      },
+      {
+        "title": "哥德堡变奏曲 · 第 6 变奏",
+        "preview": "/audio/bach-variation-6-128.mp3",
+        "durationMs": 62160,
+        "source": "https://archive.org/details/MusopenCollectionAsFlac",
+        "qualities": [
+          {
+            "id": "standard",
+            "label": "省流",
+            "detail": "MP3 · 128 kbps",
+            "url": "/audio/bach-variation-6-128.mp3",
+            "bytes": 995905
+          },
+          {
+            "id": "flac",
+            "label": "无损 FLAC",
+            "detail": "FLAC · 24-bit / 44.1 kHz",
+            "url": "/audio/bach-variation-6.flac",
+            "bytes": 3361539,
+            "fallback": "https://ia600709.us.archive.org/0/items/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-07-GoldbergVariationsBwv.988-Variation6.CanonOnTheSecond.flac"
+          },
+          {
+            "id": "wav",
+            "label": "无损 WAV",
+            "detail": "WAV · 24-bit / 44.1 kHz",
+            "url": "/audio/bach-variation-6.wav",
+            "bytes": 16447812
+          }
+        ]
+      }
+    ]
+  }
+]

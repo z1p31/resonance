@@ -1,0 +1,11 @@
+﻿'use client';
+import {useEffect,useRef,useState} from 'react';
+type Turnstile={render:(el:HTMLElement,options:Record<string,unknown>)=>string;remove:(id:string)=>void};
+declare global{interface Window{turnstile?:Turnstile}}
+let loader:Promise<void>|null=null;
+function load(){if(window.turnstile)return Promise.resolve();if(loader)return loader;loader=new Promise<void>((resolve,reject)=>{const script=document.createElement('script');script.src='https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit';script.async=true;const timer=setTimeout(()=>{script.remove();loader=null;reject(Error('验证组件加载超时，请重试'))},15000);script.onload=()=>{clearTimeout(timer);resolve()};script.onerror=()=>{clearTimeout(timer);script.remove();loader=null;reject(Error('验证组件加载失败，请检查网络后重试'))};document.head.appendChild(script)});return loader}
+export function TurnstileChallenge({action,onToken}:{action:'login'|'register';onToken:(token:string)=>void}){
+ const host=useRef<HTMLDivElement>(null),callback=useRef(onToken);callback.current=onToken;const [message,setMessage]=useState('正在加载安全验证…'),[retry,setRetry]=useState(0);
+ useEffect(()=>{let live=true,id:string|undefined;const controller=new AbortController();callback.current('');setMessage('正在加载安全验证…');(async()=>{try{const response=await fetch('/api/auth-config',{signal:controller.signal});if(!response.ok)throw Error('暂时无法加载验证配置，请重试');const c=await response.json() as {siteKey:string;configured:boolean};if(!c.configured)throw Error('人机验证尚未配置，请联系管理员。');await load();if(!live||!host.current)return;setMessage('');id=window.turnstile!.render(host.current,{sitekey:c.siteKey,action,theme:'auto',size:'flexible',callback:(token:string)=>{if(live){callback.current(token);setMessage('验证通过')}},'expired-callback':()=>{if(live){callback.current('');setMessage('验证已过期，请重新验证')}},'error-callback':()=>{if(live){callback.current('');setMessage('验证失败，请重试')}},'timeout-callback':()=>{if(live){callback.current('');setMessage('验证超时，请重试')}}})}catch(e){if(live)setMessage((e as Error).message)}})();return()=>{live=false;controller.abort();if(id&&window.turnstile)window.turnstile.remove(id)}},[action,retry]);
+ return <div className="turnstile-challenge"><div ref={host}/>{message&&<p role="status">{message}</p>}{message&&message!=='验证通过'&&<button type="button" onClick={()=>setRetry(v=>v+1)}>重新加载验证</button>}</div>
+}

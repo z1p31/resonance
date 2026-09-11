@@ -1,0 +1,4 @@
+/audio/*.flac
+  Content-Type: audio/flac
+/audio/*.wav
+  Content-Type: audio/wav

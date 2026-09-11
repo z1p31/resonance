@@ -1,0 +1,4 @@
+ADMIN=music_owner
+PASSWORD=
+# Optional canonical origin for SSO
+SITE_URL=
